@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Joao6/natours-project/issues"
   },
-  "homepage": "https://github.com/Joao6/natours-project#readme"
+  "homepage": "https://github.com/Joao6/natours-project#readme",
+  "devDependencies": {
+    "node-sass": "^4.8.3"
+  }
 }
